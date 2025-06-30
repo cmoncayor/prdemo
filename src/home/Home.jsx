@@ -20,6 +20,14 @@ export const Home = () => (
         className="inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white hover:bg-indigo-700"
       >
         Visit Google
+
+      <a
+        target="_blank"
+        href="https://www.bing.com"
+        rel="noreferrer"
+        className="inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white hover:bg-indigo-700"
+      >
+        Visit Bing
       </a>
     </div>
     <div className="flex justify-center">
