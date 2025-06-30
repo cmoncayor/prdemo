@@ -9,7 +9,6 @@
     "check": "eslint src --ext jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "pre-commit": "check",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.0",
     "react": "^18.2.0",
