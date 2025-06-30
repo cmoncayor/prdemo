@@ -13,6 +13,14 @@ export const Home = () => (
       >
         Visit quave.dev
       </a>
+      <a
+        target="_blank"
+        href="https://www.google.com"
+        rel="noreferrer"
+        className="inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-5 py-3 text-base font-medium text-white hover:bg-indigo-700"
+      >
+        Visit Google
+      </a>
     </div>
     <div className="flex justify-center">
       <img className="w-1/2 md:w-1/3" src="./logo-with-shadow.png" alt="Vite Logo"/>
