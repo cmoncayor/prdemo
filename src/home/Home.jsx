@@ -13,7 +13,6 @@ export const Home = () => (
       >
         Visit quave.dev
       </a>
-
       <a
         target="_blank"
         href="https://www.quave.dev"
